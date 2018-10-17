@@ -8,10 +8,10 @@ Performs full CRUD Operations.
 Customer-Relationship-Management-Web-App Architecture
 ![crm web app arch](https://user-images.githubusercontent.com/40679311/46988763-05cd6080-d0af-11e8-8c09-322982a52ee7.JPG)
 
-CRM Web App
+Demo of CRM Web App
+![image](https://user-images.githubusercontent.com/40679311/47120956-a0e84680-d225-11e8-9a9b-02b60fd96bc2.png)
 
 
-![crm web app](https://user-images.githubusercontent.com/40679311/46989204-09fa7d80-d0b1-11e8-999b-ce9fb46d62c1.JPG)
+Add Customer
 
-
-
+![image](https://user-images.githubusercontent.com/40679311/47120981-b9f0f780-d225-11e8-9205-bc209fea0e9b.png)

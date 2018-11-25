@@ -6,7 +6,7 @@ Performs full CRUD Operations. <br/>
 • Update a Customer <br/>
 • Delete a Customer <br/>
 
-# Customer-Relationship-Management-Web-App Architecture
+# The following diagram shows the architecture:
 ![crm web app arch](https://user-images.githubusercontent.com/40679311/46988763-05cd6080-d0af-11e8-8c09-322982a52ee7.JPG)
 
 # Demo of CRM Web App

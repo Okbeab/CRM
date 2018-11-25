@@ -13,6 +13,6 @@ Performs full CRUD Operations. <br/>
 ![image](https://user-images.githubusercontent.com/40679311/47120956-a0e84680-d225-11e8-9a9b-02b60fd96bc2.png)
 
 
-# The following example shows how to add Customer
+# The following example shows how to add a customer
 
 ![image](https://user-images.githubusercontent.com/40679311/47120981-b9f0f780-d225-11e8-9205-bc209fea0e9b.png)
